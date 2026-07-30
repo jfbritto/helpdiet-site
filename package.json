@@ -1,0 +1,12 @@
+{
+  "name": "helpdiet-site",
+  "private": true,
+  "description": "Site institucional do HelpDiet",
+  "scripts": {
+    "build": "tailwindcss -i src/input.css -o dist/style.css --minify",
+    "watch": "tailwindcss -i src/input.css -o dist/style.css --watch"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.0.0"
+  }
+}

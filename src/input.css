@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+/* Verde da marca, amostrado da logo (valores agrupados em #3c7847/#3a7947).
+   No Tailwind v4 o tema e declarado em CSS, nao em tailwind.config.js. */
+@theme {
+  --color-brand-50:  #eef5f0;
+  --color-brand-100: #d7e8dc;
+  --color-brand-300: #8fcfa4;
+  --color-brand-500: #3b7847;
+  --color-brand-600: #2e5f38;
+  --color-brand-900: #14532d;
+}
