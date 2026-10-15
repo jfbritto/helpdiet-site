@@ -1,0 +1,47 @@
+# HelpDiet
+
+> O HelpDiet reúne as planilhas digitais de segurança dos alimentos da cozinha profissional: temperatura de equipamentos, recebimento, validades, higienização e serviços com vencimento. A equipe registra pelo celular, pelo tablet ou pelo computador, o sistema mostra o que ainda falta no dia e a gestão acompanha todas as unidades.
+
+O HelpDiet é um produto da HelpFlux Soluções em Tecnologia (HELPFLUX SOLUÇÕES EM TECNOLOGIA LTDA, CNPJ 58.063.432/0001-21), de Santa Maria de Jetibá/ES. O sistema fica em https://planilhas.helpdiet.com.br e funciona no navegador, sem instalar nada.
+
+## Para quem é
+
+- Nutricionistas de cozinhas profissionais, como as de hotéis: cadastram equipamentos, faixas de temperatura, produtos, fornecedores e a equipe, e acompanham as pendências do dia.
+- Colaboradores da cozinha: registram as planilhas que a nutricionista liberou, com a data já preenchida e a cor da temperatura na hora.
+- Gestores de redes com várias unidades: acompanham todas as unidades na área gerencial e tiram os relatórios.
+- Auditores: consultam planilhas e indicadores, somente leitura.
+
+## Recursos
+
+- 26 planilhas, entre elas temperatura de equipamentos e áreas climatizadas, recebimento de matéria-prima, registro de higienização, hortifrutis, resfriamento, reaquecimento, distribuição, banho-maria, rastreabilidade, validade de manipulados, teor de cloro, saturação do óleo, pragas e saúde do colaborador. Cada uma gera o PDF dos registros.
+- Temperatura com cor: verde dentro da faixa do equipamento, amarelo até 2 °C fora, vermelho mais longe que isso. Leituras das 10h e das 16h, status do equipamento (desligado, higienização, manutenção, degelo) e ação corretiva no mesmo registro.
+- Pendências do dia na home da unidade: temperaturas pendentes dos equipamentos obrigatórios, fita do óleo, resfriamento e reaquecimento.
+- Validades: produtos a vencer e vencidos na home; ao validar, usado ou descartado, com quantidade e motivo. Produtos notificados ao fornecedor e devolvidos em listas próprias.
+- Serviços com vencimento, como dedetização e limpeza da caixa d'água, troca do elemento filtrante, limpeza da caixa de gordura e higienização do ar-condicionado, avisados na home antes de vencer.
+- 9 relatórios de gestão em PDF e Excel (CSV), mais o de descartes: indicadores da rede, temperatura por equipamento, não conformidades e ações corretivas, fornecedores, validades e descartes, serviços e manutenção, adesão e pontualidade, comparativo da rede e relatório mensal.
+- Histórico de cada lançamento: quem lançou, quem editou e quando.
+
+## Área gerencial da rede
+
+- Resumo dos últimos 30 dias: unidades em dia hoje, temperatura fora da faixa, fora da faixa sem ação corretiva, serviços vencidos e lançado no mesmo dia.
+- Um cartão por unidade, com os obrigatórios lançados hoje, o percentual fora da faixa e as pendências. Ícone verde quando todos os obrigatórios de hoje foram lançados, amarelo quando só parte, vermelho quando nenhum ou com mais de 3 dias sem registro.
+- Regra da manhã: as leituras do dia começam às 10h, então antes das 11h a cor vale pelo dia anterior.
+- Integração com o Hotel em Dia (https://hotelemdia.com), também da HelpFlux: com a autorização da empresa, os números agregados da segurança dos alimentos de cada unidade aparecem no painel do hotel. Nunca nome de pessoa, de produto ou dado de saúde.
+
+## Segurança e privacidade
+
+- Dados separados por empresa; nutricionista e colaborador enxergam só a própria unidade.
+- Acesso por papel: admin, nutricionista, colaborador e auditor somente leitura.
+- Acesso por HTTPS e senhas guardadas com hash.
+- Nos relatórios de gestão, a saúde do colaborador entra só em contagem, sem nome.
+
+## Boas Práticas
+
+A RDC 216/2004 da Anvisa trata das Boas Práticas em serviços de alimentação e pede registros, como o da temperatura de armazenamento. O HelpDiet ajuda a manter esses registros em dia; o Manual de Boas Práticas, os procedimentos e a responsabilidade técnica continuam com a nutricionista. Texto da norma: https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2004/res0216_15_09_2004.html
+
+## Links
+
+- [Site do HelpDiet](https://helpdiet.com.br/)
+- [Entrar no sistema](https://planilhas.helpdiet.com.br)
+- [Falar no WhatsApp: (28) 99974-3099](https://api.whatsapp.com/send?phone=5528999743099)
+- [HelpFlux](https://helpflux.com.br)
