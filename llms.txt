@@ -39,9 +39,14 @@ O HelpDiet é um produto da HelpFlux Soluções em Tecnologia (HELPFLUX SOLUÇÕ
 
 A RDC 216/2004 da Anvisa trata das Boas Práticas em serviços de alimentação e pede registros, como o da temperatura de armazenamento. O HelpDiet ajuda a manter esses registros em dia; o Manual de Boas Práticas, os procedimentos e a responsabilidade técnica continuam com a nutricionista. Texto da norma: https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2004/res0216_15_09_2004.html
 
+## Teste grátis
+
+14 dias com tudo liberado, para até 3 unidades, sem cartão, em https://planilhas.helpdiet.com.br/criar-conta. Um primeiro acesso guiado cadastra a unidade, os equipamentos e a equipe e termina com a primeira leitura de temperatura. No fim do teste, a conta fica só para consulta, com os registros e os PDFs, até a contratação, combinada pelo WhatsApp.
+
 ## Links
 
 - [Site do HelpDiet](https://helpdiet.com.br/)
+- [Teste grátis por 14 dias](https://planilhas.helpdiet.com.br/criar-conta)
 - [Entrar no sistema](https://planilhas.helpdiet.com.br)
 - [Falar no WhatsApp: (28) 99974-3099](https://api.whatsapp.com/send?phone=5528999743099)
 - [HelpFlux](https://helpflux.com.br)
